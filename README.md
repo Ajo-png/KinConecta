@@ -81,7 +81,7 @@ Este proyecto fue desarrollado por el equipo **Bugbusters** como parte del Proye
 | **José Evelio** | / | [@user](https://github.com/) |
 | **Mariana Carmona** | / | [@user](https://github.com/) |
 | **Andrea Meneses** |  / | [@user](https://github.com/) |
-| **Juan Ariel Alarcón** | /  | [@user](https://github.com/) |
+| **Juan Ariel Alarcón** | /  | [JuanAG1003](https://github.com/JuanAG1003) |
 
 ---
 ⌨️ con ❤️ por el equipo **Bugbusters** 😊
