@@ -77,7 +77,7 @@ Este proyecto fue desarrollado por el equipo **Bugbusters** como parte del Proye
 | **Oscar Monroy** | Frontend / Fullstack | [@user](https://github.com/) |
 | **Hageo Balam** | Backend / Data | [@user](https://github.com/) |
 | **Gabriel Flores** | Frontend Developer | [@user](https://github.com/) |
-| **Emmanuel Montiel** | Fullstack Developer | [@user](https://github.com/) |
+| **Emmanuel Montiel** | Fullstack Developer | [esaumonti-blip](https://github.com/) |
 | **José Evelio** | Frontend Developer | [@user](https://github.com/) |
 | **Mariana Carmona** | Frontend / UI | [@user](https://github.com/) |
 | **Andrea Meneses** | Fullstack Developer | [@user](https://github.com/) |
